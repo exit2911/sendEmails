@@ -45,7 +45,6 @@ outlookmailitem.bcc = ""
 outlookmailitem.Subject = subj
 outlookmailitem.body = detail1 & vbCrLf & detail2 
 
-'myAttachments.Add (attachment)
 outlookmailitem.display
 outlookmailitem.Send
 lastrow = lastrow + 1
